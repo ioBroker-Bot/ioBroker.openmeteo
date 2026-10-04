@@ -72,13 +72,13 @@
         "en": "fix: add random jitter to update scheduling to spread cloud load; validate warnIntervalMinutes (reset to 15 if < 1); remove orphaned i18n keys; fix warnIntervalMinutes default in admin UI; bump MUI 9, TypeScript 7, Vite 8.1, suncalc 2",
         "de": "fix: zufälliger Jitter für Update-Zeitplanung; warnIntervalMinutes validieren (Reset auf 15 wenn < 1); verwaiste i18n-Schlüssel entfernt; warnIntervalMinutes-Standard in Admin-UI korrigiert; MUI 9, TypeScript 7, Vite 8.1, suncalc 2 aktualisiert",
         "ru": "исправление: случайный джиттер для расписания обновлений; проверка warnIntervalMinutes; исправление i18n; обновление MUI 9, TypeScript 7, Vite 8.1, suncalc 2",
-        "pt": "correção: jitter aleatório no agendamento; validação de warnIntervalMinutes; chaves i18n corrigidas; atualização de dependências",
+        "pt": "correção: jitter aleatório no agendamento de atualizações para distribuir a carga na nuvem; validação de warnIntervalMinutes (redefine para 15 se < 1); chaves i18n órfãs removidas; valor padrão de warnIntervalMinutes corrigido na UI de admin; atualização de MUI 9, TypeScript 7, Vite 8.1, suncalc 2",
         "nl": "fix: willekeurige jitter voor update-planning; warnIntervalMinutes valideren; verweesde i18n-sleutels verwijderd; afhankelijkheden bijgewerkt",
         "fr": "correctif: jitter aléatoire pour la planification; validation de warnIntervalMinutes; clés i18n orphelines supprimées; dépendances mises à jour",
-        "it": "fix: jitter casuale per la pianificazione; validazione warnIntervalMinutes; chiavi i18n orfane rimosse; dipendenze aggiornate",
+        "it": "fix: jitter casuale per la pianificazione degli aggiornamenti per distribuire il carico cloud; validazione warnIntervalMinutes (ripristina 15 se < 1); chiavi i18n orfane rimosse; corretto il valore predefinito di warnIntervalMinutes nell'UI admin; aggiornati MUI 9, TypeScript 7, Vite 8.1, suncalc 2",
         "es": "corrección: jitter aleatorio en la programación; validación de warnIntervalMinutes; claves i18n huérfanas eliminadas; dependencias actualizadas",
-        "pl": "poprawka: losowe opóźnienie harmonogramu; walidacja warnIntervalMinutes; usunięcie osieroconych kluczy i18n; aktualizacja zależności",
-        "uk": "виправлення: випадковий джитер для розкладу оновлень; перевірка warnIntervalMinutes; видалення зайвих i18n ключів; оновлення залежностей",
+        "pl": "poprawka: losowe opóźnienie harmonogramu aktualizacji w celu rozłożenia obciążenia chmury; walidacja warnIntervalMinutes (reset do 15 gdy < 1); usunięcie osieroconych kluczy i18n; poprawiono domyślną wartość warnIntervalMinutes w UI administratora; aktualizacja MUI 9, TypeScript 7, Vite 8.1, suncalc 2",
+        "uk": "виправлення: випадковий джитер для розкладу оновлень, щоб розподілити навантаження на хмару; перевірка warnIntervalMinutes (скидання на 15, якщо < 1); видалення зайвих i18n ключів; виправлено значення за замовчуванням warnIntervalMinutes в адмін-UI; оновлено MUI 9, TypeScript 7, Vite 8.1, suncalc 2",
         "zh-cn": "修复：为更新调度添加随机抖动；验证warnIntervalMinutes；删除孤立i18n键；更新MUI 9、TypeScript 7、Vite 8.1、suncalc 2"
       },
       "0.1.12": {
